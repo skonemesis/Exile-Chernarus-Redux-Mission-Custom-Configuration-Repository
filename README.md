@@ -3,9 +3,7 @@ This repository contains the complete Exile Chernarus Redux mission file along w
 
 ## License
 
-This repository is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Copyright (c) 2025 PGM DEVELOPMENT TEAM.
 
-For more information, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-
+For more details, visit: https://creativecommons.org/licenses/by-nc-sa/4.0/
